@@ -1,0 +1,29 @@
+{
+  "name": "@cra_ssr/engine",
+  "version": "0.0.1",
+  "description": "enging managing APi call and HTML rendering to power up server side rendring for create-react-app ",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-helmet": "^5.2.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.6",
+    "redux": "^3.7.2",
+    "axios": "^0.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "create-react-app",
+    "react",
+    "ssr",
+    "react-ssr",
+    "cra_ssr"
+  ],
+  "author": "Ali Elouai <ali.elouai.pro@gmail.com>",
+  "license": "ISC"
+}
