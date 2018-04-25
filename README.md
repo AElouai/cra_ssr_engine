@@ -8,11 +8,11 @@ Engine role is to supply [cra_ssr](https://github.com/AElouai/cra_ssr) with REST
 ## Installation
 
 ```sh
-$ npm install --save @cra_ssr/engine
+$ npm install --save cra_ssr_engine
 ```
 
 ## Usage
-you have to fork this repo and change it's name from `@cra_ssr/engine` to `@yourProjectName/engine` and add your config 
+you have to fork this repo and change it's name from `cra_ssr_engin` to `@yourProjectName/engine` and add your config 
 
 configer `/api` by adding your andpoint URL and any header required by your server
 **Ex :** 
