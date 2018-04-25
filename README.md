@@ -8,7 +8,7 @@ Engine role is to supply [cra_ssr](https://github.com/AElouai/cra_ssr) with REST
 ## Installation
 
 ```sh
-$ npm install --save cra_ssr_engin
+$ npm install --save cra_ssr_engine
 ```
 
 ## Usage
