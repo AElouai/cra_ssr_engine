@@ -1,7 +1,7 @@
 {
-  "name": "@cra_ssr/engine",
-  "version": "0.0.1",
-  "description": "enging managing APi call and HTML rendering to power up server side rendring for create-react-app ",
+  "name": "cra_ssr_engine",
+  "version": "0.0.2",
+  "description": "engine managing APi call and HTML rendering to power up server side rendring for create-react-app ",
   "main": "index.js",
   "dependencies": {
     "path": "^0.12.7",

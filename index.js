@@ -1,4 +1,24 @@
-import routes from './routes'
-import server from "./server";
+import {
+  getBook,
+  getBooks,
+  getInitState,
+  initState,
+  switchPath
+} from "./routes";
+import {
+  sendFileToHtml,
+  createServerStaticStore,
+  getHTML,
+  sendFileToHtml
+} from "./server";
 
-export { routes, server };
+export {
+  sendFileToHtml,
+  createServerStaticStore,
+  getHTML,
+  getBook,
+  getBooks,
+  getInitState,
+  initState,
+  switchPath
+};

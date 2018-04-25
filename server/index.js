@@ -1,5 +1,5 @@
-import {sendFileToHtml} from "./ssr";
-import {getHTML,sendFileToHtml} from "./html";
-import {createServerStaticStore} from "./store";
+import { sendFileToHtml } from "./ssr";
+import { getHTML } from "./html";
+import { createServerStaticStore } from "./store";
 
-export { sendFileToHtml, createServerStaticStore,getHTML,sendFileToHtml };
+export { sendFileToHtml, createServerStaticStore, getHTML };
